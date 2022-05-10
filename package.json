@@ -1,0 +1,19 @@
+{
+  "name": "login",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/iamrajanand/login.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamrajanand/login/issues"
+  },
+  "homepage": "https://github.com/iamrajanand/login#readme"
+}
